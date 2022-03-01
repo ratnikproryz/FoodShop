@@ -1,7 +1,7 @@
 <div class="main-sidebar">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="/"><img src="{{ asset($logo) }}" alt="logo" class="w-100 px-5 h-100"></a>
+            <a href="/"><img src="{{ asset($logo) }}" alt="logo" class="w-100 px-5 h-100 pt-1"></a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
             <a href="/"><img src="{{  asset($logo) }}" alt="logo" class="w-100 px-1"></a>

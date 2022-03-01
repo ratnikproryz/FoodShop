@@ -67,7 +67,7 @@
                 <p class="text-sm mb-0 text-capitalize font-weight-bold">New Clients</p>
                 <h5 class="font-weight-bolder mb-0">
                   {{ $new_users_amount }}
-                  <small class="text-danger text-sm font-weight-bolder">-2%</small>
+                  <small class="text-danger text-sm font-weight-bolder"></small>
                 </h5>
               </div>
             </div>
